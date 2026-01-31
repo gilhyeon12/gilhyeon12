@@ -1,1 +1,13 @@
-# gilhyeon12
+# 안녕하세요! 👋
+
+## 🐍 파이썬을 공부하는 학생 개발자입니다.
+
+새로운 것을 배우고 성장하는 것을 좋아합니다.
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Github Stats
+![GilHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilhyeon12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilhyeon12&layout=compact&theme=radical)
